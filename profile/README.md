@@ -121,9 +121,10 @@
 
 ## 📎 문서 및 자료 링크
 
-- [Google Drive](https://drive.google.com/drive/folders/1aFjriUQpHDcrI7Rt68YGSPTwnH0dJ4bn?pli=1)
-- [ERD (ERDCloud)](https://www.erdcloud.com/d/NnvfEkHaQgXSXHWCm)
+- [Google 드라이브](https://drive.google.com/drive/folders/1aFjriUQpHDcrI7Rt68YGSPTwnH0dJ4bn?pli=1)
+- [ERD 클라우드](https://www.erdcloud.com/d/NnvfEkHaQgXSXHWCm)
 - [API 명세서](https://www.notion.so/API-225672106a2081389214daa0b7ed286d?source=copy_link)
+- [Figma 디자인](https://www.figma.com/design/SfCoh6OwnZCvbfryBysNpe/BADATA_2SeaU-%EC%9C%A0%EB%A0%88%EC%B9%B4-%EC%B5%9C%EC%A2%85-%EC%9C%B5%ED%95%A9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A1%B0-?node-id=0-1&p=f)
 ---
 
 **Team 2SeaU / BADATA**  
