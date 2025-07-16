@@ -123,7 +123,7 @@
 
 - [Google Drive](https://drive.google.com/drive/folders/1aFjriUQpHDcrI7Rt68YGSPTwnH0dJ4bn?pli=1)
 - [ERD (ERDCloud)](https://www.erdcloud.com/d/NnvfEkHaQgXSXHWCm)
-
+- [API 명세서](https://www.notion.so/API-225672106a2081389214daa0b7ed286d?source=copy_link)
 ---
 
 **Team 2SeaU / BADATA**  
