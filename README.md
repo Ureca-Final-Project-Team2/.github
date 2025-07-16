@@ -80,27 +80,42 @@
 
 ### 💻 Frontend
 
-- Next.js (App Router)
-- TypeScript
-- Zustand / React Query / Axios
-- Tailwind CSS / Shadcn UI
-- Storybook
-- ESLint / Prettier / Husky
-- Turbopack
-- Vercel
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=Zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)<br>
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?logo=react&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)<br>
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
 
 ### 🔧 Backend
 
-- Java 17 / Spring Boot / Spring Security
-- JPA / Hibernate / Spring Boot Test
-- PostgreSQL + PGVector / Redis
-- AWS EC2, RDS, S3
-- Swagger / ERDcloud
-- GitHub Actions
+![Java](https://img.shields.io/badge/Java_17-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-orange?logo=hibernate&logoColor=white)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2_RDS_S3-232F3E?logo=amazonaws&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 
 ### 🤝 협업 도구
 
-- GitHub, Jira, Notion, Figma, Slack, Discord
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
 
 ---
 
