@@ -78,44 +78,45 @@
 
 ## 🛠 기술 스택
 
-### 💻 Frontend
+## 💻 Frontend 기술 스택 (기능별 정리)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?logo=Zustand&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)<br>
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?logo=react&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)<br>
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white)
-![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+| 🗂️ 카테고리 | 스택 | 설명 |
+|------------|------|------|
+| **프레임워크 & 언어** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | App Router 기반 SSR & CSR 혼합 프레임워크 / 정적 타입을 통한 안정적인 코드 |
+| **상태관리 & 서버 상태** | ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=Zustand&logoColor=white)<br>![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white) | 전역 상태 관리 (클라이언트 상태), 서버 상태 동기화 및 캐싱 처리 |
+| **API 통신** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) | RESTful API 요청/응답 핸들링 및 인터셉터 기반 에러 제어 |
+| **스타일링 & UI** | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)<br>![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?logo=react&logoColor=white) | 클래스 기반 유틸리티 CSS 프레임워크 / Headless UI 기반의 커스터마이징 가능한 UI |
+| **컴포넌트 개발** | ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) | 독립형 UI 컴포넌트 개발 및 문서화 도구 |
+| **코드 품질 & 형식** | ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)<br>![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)<br>![Husky](https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white) | 코드 스타일 검사 / 자동 정렬 / Git hook 기반 사전 검사 |
+| **빌드 & 배포** | ![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=vercel&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) | 고속 번들러 / 서버리스 기반 자동 배포 플랫폼 |
+
+---
+
+## 🔧 Backend 기술 스택 (기능별 정리)
+
+| 🗂️ 카테고리 | 스택 | 설명 |
+|------------|------|------|
+| **언어 & 프레임워크** | ![Java](https://img.shields.io/badge/Java_17-007396?logo=openjdk&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | 객체지향 기반 백엔드 언어 / 빠른 개발을 위한 DI 기반 프레임워크 |
+| **보안 & 인증** | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white) | JWT 인증, 권한 기반 인가 처리 |
+| **DB & ORM** | ![JPA](https://img.shields.io/badge/JPA-orange?logo=hibernate&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ORM을 통한 DB 추상화 / 오픈소스 RDB |
+| **캐시 & 실시간 데이터** | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | 세션 관리 및 휘발성 저장소로 고속 접근 지원 |
+| **인프라 / 배포** | ![AWS](https://img.shields.io/badge/AWS_EC2_RDS_S3-232F3E?logo=amazonaws&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) | EC2, RDS, S3로 인프라 구축 / GitHub 기반 CI-CD 자동화 |
+| **API 명세화** | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) | Swagger를 통한 API 문서 자동화 및 테스트 |
+
+---
+
+## 🤝 협업 도구
+
+| 도구 | 역할 | 설명 |
+|------|------|------|
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | 형상 관리 | 소스코드 버전 관리 및 PR 기반 협업 |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) | 이슈/태스크 관리 | 스프린트 기반 업무 트래킹 |
+| ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) | 문서 협업 | 회의록, 기획 문서, API 정리 등 통합 위키 |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | UI 설계 | 컴포넌트 디자인 및 프로토타입 공유 |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | 메신저 | 팀 채널 기반 실시간 소통 도구 |
+| ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | 보이스 협업 | 실시간 음성 회의 및 화면 공유 |
 
 
-### 🔧 Backend
-
-![Java](https://img.shields.io/badge/Java_17-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-orange?logo=hibernate&logoColor=white)<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2_RDS_S3-232F3E?logo=amazonaws&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-
-### 🤝 협업 도구
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
 
 ---
 
