@@ -4,9 +4,9 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/02721348-01fc-458d-aba8-f66654e625a7" width="200" />
   
-**LG유플러스 유레카 프론트엔드 개발자 2기**  
+**LG유플러스 유레카 2기**  
 융합프로젝트 2조 바다 컨셉 + LG U+ = **2SeaU**
-</div>
+</div> 
 
 ---
 
@@ -117,19 +117,15 @@
 | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | 보이스 협업 | 실시간 음성 회의 및 화면 공유 |
 
 
-
 ---
 
 ## 📎 문서 및 자료 링크
 
-- [WBS (Google Drive)](https://example.com)
-- [플로우차트 (Figma)](https://example.com)
-- [API 명세서 (Notion)](https://example.com)
-- [ERD (ERDCloud)](https://example.com)
-- [Storybook](https://example.com)
+- [Google Drive](https://drive.google.com/drive/folders/1aFjriUQpHDcrI7Rt68YGSPTwnH0dJ4bn?pli=1)
+- [ERD (ERDCloud)](https://www.erdcloud.com/d/NnvfEkHaQgXSXHWCm)
 
 ---
 
 **Team 2SeaU / BADATA**  
-_LG U+ 유레카 프론트엔드 개발자 2기 종합 프로젝트_
+_LG U+ 유레카 2기 최종 융합 프로젝트_
 
