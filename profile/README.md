@@ -6,8 +6,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/02721348-01fc-458d-aba8-f66654e625a7" width="200" />  
   <br/>
-  <strong>LG유플러스 유레카 2기</strong><br/>
-  융합프로젝트 2조 바다 컨셉 + LG U+ = <strong>2SeaU</strong>
+  <strong>실시간 데이터 공유의 한계를 체감한 1인 가구를 위한</strong><br/>
+  <strong>남는 데이터를 순환시키는 개인 간 데이터 거래 플랫폼</strong><br/>
+
+_유레카 프론트엔드 개발자 과정 2기 <br/> 최종 융합 프로젝트 2조: 2SeaU_  
 </div>
 
 &nbsp;  
