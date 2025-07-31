@@ -151,6 +151,8 @@ _유레카 프론트엔드 개발자 과정 2기 <br/> 최종 융합 프로젝�
 - [📜 API 명세서 (Notion)](https://www.notion.so/API-225672106a2081389214daa0b7ed286d?source=copy_link)  
 - [🎨 Figma 디자인](https://www.figma.com/design/SfCoh6OwnZCvbfryBysNpe/BADATA_2SeaU-%EC%9C%A0%EB%A0%88%EC%B9%B4-%EC%B5%9C%EC%A2%85-%EC%9C%B5%ED%95%A9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A1%B0-?node-id=0-1&p=f)  
 
+## 2차 LG 유플러스 현직자 멘토링 질문 리스트
+- [2차 LG 유플러스 현직자 멘토링 질문 리스트](https://www.notion.so/2-LG-240672106a20802b8482dfe42812e1e8?source=copy_link)
 
 
 <div align="center">
