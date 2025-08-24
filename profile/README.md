@@ -1,15 +1,23 @@
-# 📡 BADATA: 1인 가구를 위한 데이터 공유·거래 통합 플랫폼
-
+# 🐳 BADATA: 디지털 자원을 연결하는 통합형 데이터 공유 플랫폼
 &nbsp;  
 &nbsp;  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/02721348-01fc-458d-aba8-f66654e625a7" width="200" />  
-  <br/>
-  <strong>실시간 데이터 공유의 한계를 체감한 1인 가구를 위한</strong><br/>
-  <strong>남는 데이터를 순환시키는 개인 간 데이터 거래 플랫폼</strong><br/>
 
-_유레카 프론트엔드 개발자 과정 2기 <br/> 최종 융합 프로젝트 2조: 2SeaU_  
+<img width="600" alt="figma-cover" src="https://github.com/user-attachments/assets/a0ad5c0a-ee08-4fdf-a812-76878be527bf" />  
+
+&nbsp;  
+
+**디지털 자원을 연결하는 통합형 데이터 공유 플랫폼 ‘BADATA’**
+
+_유레카 프론트엔드 개발자 과정 2기 <br/> 최종 융합 프로젝트 2조_  
+
+
+<br/>
+
+<!-- ✅ 서비스 바로가기 -->
+<strong><a href="https://www.badata.store">🐳 서비스 바로가기</a></strong>
+
 </div>
 
 &nbsp;  
@@ -30,20 +38,101 @@ _유레카 프론트엔드 개발자 과정 2기 <br/> 최종 융합 프로젝�
   </svg>
   로 이동합니다.
 </p>
-
-
-
 &nbsp;  
-&nbsp;  
+&nbsp; 
+
 
 ## 🧑‍🤝‍🧑 팀원 소개 및 역할
 
-| 이름 | 역할 | 주요 담당 |
-|------|------|------------|
-| **박은서** | 총괄 팀장 | 회원가입 / 대여 UI 및 관련 기능 구현 / UX 흐름 설계 및 QA 총괄 / 배포 관리 |
-| **이시현** | 프론트엔드 팀장 | 프로젝트 설계, 거래 메인 페이지 UI 및 관련 기능 구현|
-| **이진우** | 백엔드 팀장 | 소셜 로그인 및 인증/인가,가맹점 지도 시스템,렌탈 시스템 |
-| **이은채** | 프론트엔드 | 거래 상세 페이지, 결제 시스템 UI 및 관련 기능 구현 |
-| **박지회** | 프론트엔드 | 홈 / 마이페이지 / SOS 데이터 구조 요청 UI 및 관련 기능 구현 |
-| **김도연** | 백엔드 | 거래 커뮤니티, 결제 시스템, 실시간 검색어 시스템,게시글 추천 시스템, CI/CD |
-| **조윤주** | 백엔드 | 인프라, 사용자 시스템, SOS 시스템, OCR |
+### 🎨 Frontend
+
+<div align="center">
+<table>
+  <tr>
+    <th width="200">👑 박은서 (총괄팀장)</th>
+    <th width="200">이시현 (FE 리드)</th>
+    <th width="200">박지회</th>
+    <th width="200">이은채</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="80"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/102678331?v=4" width="80"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/197379577?v=4" width="80"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/171488704?v=4" width="80"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/arty0928">@arty0928</a></td>
+    <td align="center"><a href="https://github.com/sihyuuun">@sihyuuun</a></td>
+    <td align="center"><a href="https://github.com/jihoi0615">@jihoi0615</a></td>
+    <td align="center"><a href="https://github.com/eunchrri">@eunchrri</a></td>
+  </tr>
+  <tr>
+    <td align="left">
+      - 배포 <br>
+      - 공유기 대여<br>
+      - Kakao 로그인 Auth<br>
+      - 로그인 라우터 가드<br>
+      - PWA 알림<br>
+    </td>
+    <td align="left">
+      - 프로젝트 초기 세팅 및 구조 설계<br>
+      - 거래 메인<br>
+      - 거래 게시글 추천<br>
+      - 공유기 대여 리뷰
+    </td>
+    <td align="left">
+      - 마이페이지<br>
+      - SSE 활용 SOS
+    </td>
+    <td align="left">
+      - 거래 상세<br>
+      - 온보딩<br>
+      - 거래 결제 포트원 연동
+    </td>
+  </tr>
+</table>
+
+<br>
+</div>
+
+### 🔧 Backend
+
+<div align="center">
+<table>
+  <tr>
+    <th width="250">👑 이진우 (BE 리드)</th>
+    <th width="250">김도연</th>
+    <th width="250">조윤주</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/96781019?v=4" width="80"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/102001809?s=96&v=4" width="80"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/99892677?v=4" width="80"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dionisos198">@dionisos198</a></td>
+    <td align="center"><a href="https://github.com/marineAqu">@marineAqu</a></td>
+    <td align="center"><a href="https://github.com/choyunju">@choyunju</a></td>
+  </tr>
+  <tr>
+    <td align="left">
+      - Kakao 소셜 로그인 JWT<br>
+      - 공유기 대여<br>
+    </td>
+    <td align="left">
+      - 거래<br>
+      - 결제 시스템<br>
+      - 실시간 거래 게시글/검색어<br>
+      - 거래 게시글 추천 시스템<br>
+      - CI/CD
+    </td>
+    <td align="left">
+      - 인프라<br>
+      - 사용자 시스템<br>
+      - SOS 시스템<br>
+      - OCR
+    </td>
+  </tr>
+</table>
+</div>
+
